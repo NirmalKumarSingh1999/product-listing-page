@@ -21,21 +21,9 @@ Includes **search** and **sorting functionality**, and works on **desktop and mo
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Run
 
-product-listing-page/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── ProductCard.jsx
-│ │ ├── ProductList.jsx
-│ │ ├── SearchBar.jsx
-│ │ └── SortOptions.jsx
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── App.css
-├── package.json
-└── README.md
+
 
 2️⃣ Install dependencies
 npm install
